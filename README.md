@@ -1,5 +1,7 @@
 ![image](https://i.imgur.com/vNY4o3W.png)
 
+This project allows you to stream any window, tab or your whole desktop to a streaming service like Twitch or Youtube Live right from within the browser without any additional software!
+
 # HTML5 to RTMP streaming gateway proxy
 
 This project intends to allow an endpoint user to submit RTMP live video streaming directly using web browser and `getUserMedia`, without installing additional software. Currently, only Firefox with `MediaRecorder` API is supported.
